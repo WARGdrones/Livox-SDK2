@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.0)
 
-project(livox_sdk2)
+project(livox_sdk2 VERSION 1.2.5)
 
 set(CMAKE_CXX_STANDARD 11)
 
